@@ -1,5 +1,5 @@
-# Trabalho-c1-Ot-vio
- Classificação de Resíduos com Inteligência Artificial
+# Trabalho-c1-Otavio
+Classificação de Resíduos com Inteligência Artificial
 Descrição
 Este projeto é uma aplicação web que utiliza Inteligência Artificial e Visão Computacional para o reconhecimento de imagens de resíduos recicláveis. O objetivo 
 principal é realizar uma classificação binária focada em distinguir duas categorias específicas: Metal e Vidro Verde (Green Glass).  Tecnologias UtilizadasFront-end: 
